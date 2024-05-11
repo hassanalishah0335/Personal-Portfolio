@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "Personal Portfolio",
-    description: "Available on Github and live ",
+    description: "Available on Github and Vercel ",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/hassanalishah0335/Personal-Portfolio",
@@ -44,7 +44,7 @@ const projectsData = [
   {
     id: 4.1,
     title: "CodeVector Web on NEXT.JS",
-    description: "Available on Github and live",
+    description: "Available on Github and Vercel",
     image: "/images/projects/4.1.png",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/hassanalishah0335/code-vector.git",
@@ -62,11 +62,11 @@ const projectsData = [
   {
     id: 6,
     title: "Narsun React Web components",
-    description: "Available on Gitub",
+    description: "Available on Gitub and Vercel",
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/hassanalishah0335/Nursun-Studio-website",
-    previewUrl: "",
+    previewUrl: "https://nursun-studio-website.vercel.app/",
   },
   {
     id: 7,
