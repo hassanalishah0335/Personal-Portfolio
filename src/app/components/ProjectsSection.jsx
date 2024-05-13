@@ -12,7 +12,7 @@ const projectsData = [
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/hassanalishah0335/Personal-Portfolio",
-    previewUrl: "/",
+    previewUrl: "https://personal-portfolio-orcin-six.vercel.app/",
   },
   {
     id: 2,

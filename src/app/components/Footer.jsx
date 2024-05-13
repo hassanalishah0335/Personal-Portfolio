@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container py-8 px-4 xl:gap-16 sm:py-16 xl:px-16 flex flex-wrap justify-start">
         <ul className="p-10">
           <li className=" font-bold">Contact</li>
-          <li>+923-350-183-868</li>
+          <li>+92-335-0183868</li>
         </ul>
         <ul className="p-10">
           <li className=" font-bold">Email</li>
