@@ -77,6 +77,15 @@ const projectsData = [
     gitUrl: "https://github.com/hassanalishah0335/React-Website-Master.git",
     previewUrl: "",
   },
+  {
+    id: 8,
+    title: "Bnody ERP python application",
+    description: "Available on Github",
+    image: "/images/projects/8.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/hassanalishah0335/Python-grocery-store-system.git",
+    previewUrl: "",
+  }
 ];
 
 const ProjectsSection = () => {
