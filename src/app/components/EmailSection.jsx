@@ -13,8 +13,8 @@ const EmailSection = () => {
     e.preventDefault();
 
     emailjs
-      .sendForm('service_pihcmti', 'template_icuxtsk', form.current, {
-        publicKey: 'n47DjWdZJYwy9gZVW',
+      .sendForm('service_j3aeoiv', 'template_dyutii5', form.current, {
+        publicKey: 'XNkO9_NmIN-Giakdm',
       })
       .then(
         () => {
@@ -42,10 +42,10 @@ const EmailSection = () => {
           try my best to get back to you!
         </p>
         <div className="socials flex flex-row gap-2">
-          <Link href="github.com">
+          <Link href="https://github.com/hassanali-devpro">
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
-          <Link href="linkedin.com">
+          <Link href="https://www.linkedin.com/in/hassanalidevpro/">
             <Image src={LinkedinIcon} alt="Linkedin Icon" />
           </Link>
         </div>

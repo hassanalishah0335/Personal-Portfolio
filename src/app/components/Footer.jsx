@@ -10,7 +10,7 @@ const Footer = () => {
         </ul>
         <ul className="p-10">
           <li className=" font-bold">Email</li>
-          <li>hassanalishah0335@gmail.com</li>
+          <li>hassanali.devpro@gmail.com</li>
         </ul>
         <ul className="p-10">
           <li className=" font-bold">Address</li>

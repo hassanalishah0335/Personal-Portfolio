@@ -104,8 +104,8 @@ const AboutSection = () => {
         </ul>
         <ul>
           <li className="font-bold pt-10 pb-2">Languages</li>
-          <li className="">English (7.5 IELTS)</li>
-          <li className="">Urdu (Native)</li>        </ul>
+          <li className="">English (7.5 IELTS)</li>       
+        </ul>
         <ul>
           <li className="font-bold pt-10 pb-2">Pro. Skills</li>
           <li className="">Client Handling</li>

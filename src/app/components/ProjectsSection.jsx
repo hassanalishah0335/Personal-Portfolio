@@ -11,7 +11,7 @@ const projectsData = [
     description: "Available on Github and Vercel ",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/hassanalishah0335/Personal-Portfolio",
+    gitUrl: "https://github.com/hassanali-devpro/Personal-Portfolio.git",
     previewUrl: "https://personal-portfolio-orcin-six.vercel.app/",
   },
   {
@@ -20,7 +20,7 @@ const projectsData = [
     description: "Available on Github and live",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/hassanalishah0335/Nursun-Studio-website",
+    gitUrl: "https://github.com/hassanali-devpro/Narsun-Web-Component.git",
     previewUrl: "https://narsunstudios.com/",
   },
   {
@@ -29,7 +29,7 @@ const projectsData = [
     description: "Available on Github",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/hassanalishah0335/Ohemical-Web-Component.git",
+    gitUrl: "https://github.com/hassanali-devpro/Ohemical-Web-Component.git",
     previewUrl: "/",
   },
   {
@@ -38,7 +38,7 @@ const projectsData = [
     description: "Available on Github",
     image: "/images/projects/4.png",
     tag: ["All", "Mobile"],
-    gitUrl: "https://github.com/hassanalishah0335/React-Native-app.git",
+    gitUrl: "https://github.com/hassanali-devpro/React-Native-App.git",
     previewUrl: "",
   },
   {
@@ -47,7 +47,7 @@ const projectsData = [
     description: "Available on Github and Vercel",
     image: "/images/projects/4.1.png",
     tag: ["All", "Mobile"],
-    gitUrl: "https://github.com/hassanalishah0335/code-vector.git",
+    gitUrl: "https://github.com/hassanali-devpro/code-vector.git",
     previewUrl: "https://code-vector.vercel.app/",
   },
   {
@@ -56,7 +56,7 @@ const projectsData = [
     description: "Available on Github",
     image: "/images/projects/5.jpg",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/hassanalishah0335/Automated-Exam-Maker.git",
+    gitUrl: "https://github.com/hassanali-devpro/Automated-Exam-Maker.git",
     previewUrl: "/",
   },
   {
@@ -65,7 +65,7 @@ const projectsData = [
     description: "Available on Gitub and Vercel",
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/hassanalishah0335/Nursun-Studio-website",
+    gitUrl: "https://github.com/hassanali-devpro/Narsun-Web-Component.git",
     previewUrl: "https://nursun-studio-website.vercel.app/",
   },
   {
@@ -74,7 +74,7 @@ const projectsData = [
     description: "Available on Github",
     image: "/images/projects/7.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/hassanalishah0335/React-Website-Master.git",
+    gitUrl: "https://github.com/hassanali-devpro/React-Trvl.git",
     previewUrl: "",
   },
   {
@@ -83,7 +83,7 @@ const projectsData = [
     description: "Available on Github",
     image: "/images/projects/8.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/hassanalishah0335/Python-grocery-store-system.git",
+    gitUrl: "https://github.com/hassanali-devpro/Bnody-ERP-TKinter.git",
     previewUrl: "",
   }
 ];
