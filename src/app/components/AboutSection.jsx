@@ -59,12 +59,10 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a certified software developer aspiring to work with frontend web and mobile applications. Currently, I
-            am employed at Narsun Studios in Lahore as a web developer. Prior to this, I worked as a mobile
-            application developer at Bizzclan Development Agency. I have experience with a range of programming
-            languages and frameworks, and I specialize in frontend development for cross-platform mobile
-            applications and web application. Additionally, I have experience working at Mindbridge Private Limited as
-            a technical support executive.
+            I am a certified software developer aspiring to work with frontend web and mobile applications. Currently, I am
+employed at Einix Solutions Pvt.Ltd in Lahore as a Software developer. I have experience with a range of programming
+languages and frameworks, and I specialize in frontend development for cross-platform mobile applications and web
+application.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
