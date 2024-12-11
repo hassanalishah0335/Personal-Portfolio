@@ -11,9 +11,12 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <li>React JS</li>
         <li>Next JS</li>
+        <li>Vue JS</li>
         <li>React Native</li>
+        <li>Node js</li>
         <li>Tailwind</li>
         <li>Bootstrap</li>
+        <li>Material-UI</li>
         <li>TKinter</li>
       </ul>
     ),
@@ -37,6 +40,8 @@ const TAB_DATA = [
         <li>Git</li>
         <li>GitHub</li>
         <li>Jira</li>
+        <li>Monday</li>
+        <li>Asana</li>
       </ul>
     ),
   },
@@ -59,10 +64,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a certified software developer aspiring to work with frontend web and mobile applications. Currently, I am
-employed at Einix Solutions Pvt.Ltd in Lahore as a Software developer. I have experience with a range of programming
-languages and frameworks, and I specialize in frontend development for cross-platform mobile applications and web
-application.
+          Certified Software Developer with experience in crafting user-friendly applications using modern frameworks like React, Next.js, Vue.js, and Tailwind CSS. I’ve worked at companies like Narsun Studios, Enix Solutions, and Sigi Technologies, contributing to innovative projects and collaborating with international teams. Passionate about delivering scalable solutions and continuously learning new technologies.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
